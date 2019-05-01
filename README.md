@@ -36,9 +36,10 @@ Mobile First
 
 ### HTML structure
 App div
-    menu/submenu div
-    Contents Div
-        Content Divs
+    location (home, stories, volunteering) div
+        menu/submenu div
+        Contents Div
+            Content Divs
     Bottom Menu Div
 
 ### Functionality
